@@ -1,4 +1,4 @@
-<h1 align="center">Piacere, mi chiamo Glenda! :relaxed:</h1>
+<h1 align="center">Piacere, sono Glenda! :relaxed:</h1>
 
 ## 👩🏻‍💻 About Me
 
