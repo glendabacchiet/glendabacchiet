@@ -11,4 +11,4 @@ Sono una Junior Full Stack Developer appassionata di sviluppo per la libertà cr
 
 ## 🛠 Linguaggi, frameworks e tools che utilizzo maggiormente
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,spring,html,mysql,css,react,bootstrap,github,postman,vite,git,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,spring,html,mysql,css,react,bootstrap,github,postman,vite,git,php,docker)](https://skillicons.dev)
